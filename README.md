@@ -7,3 +7,7 @@ This project was following the example shown by Alex the Analyst https://www.you
 This project was conducted in Google Big Query after importing the data via a CSV download.
 
 The purpose is to demonstrate comfort and competence with a number of sql commands such as:
+Simple calculations in select statement
+Aggregations
+CTE's
+Creating a table and view
